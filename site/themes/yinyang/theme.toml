@@ -16,7 +16,6 @@ features = ["blog"]
 min_version = "0.50"
 
 [params]
-headTitle = "Joway Wang"
 staticPrefix = ""
 # extraCSSFiles = ["css/foo.css", "css/bar.css"]
 extraCSSFiles = []
