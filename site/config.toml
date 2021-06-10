@@ -2,7 +2,6 @@ baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
-
 theme = "yinyang"
 
 # RSS, categories and tags disabled for an easy start
